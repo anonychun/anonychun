@@ -39,6 +39,6 @@ How to reach me: `echo "YW5vbnljaHVuQGdtYWlsLmNvbQo=" | base64 --decode`
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonychun&hide_border=true&layout=compact&theme=dark&hide=css,scss,html&exclude_repo=website,anonychun.github.io" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonychun&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile&exclude_repo=website,anonychun.github.io" align="left" style="width: 100%" />
 
 </td></tr></table>
