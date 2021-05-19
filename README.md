@@ -2,8 +2,6 @@
 
 I specialize in building a robust back-end that does all the heavy lifting for apps or websites. I love designing systems, solve problems and find easy and better solutions to solve them. I always try my best to make good systems with the best performance. I like to learn about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies.
 
-I’m constantly seeking out innovative solutions to everyday problems, commitment to critical thinking, and attention to detail. I have a passion for the processes. I’ve honed my analytical thinking and collaboration skills, and I love working with a team. I like to continue to specialize in back-end software engineering.
-
 How to reach me: `echo "YW5vbnljaHVuQGdtYWlsLmNvbQo=" | base64 --decode`
 
 ## Languages and Tools
